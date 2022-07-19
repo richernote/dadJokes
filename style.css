@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Inspiration&display=swap');
+
+
+body {
+    text-align: center; 
+    font-family: 'Comic Neue', cursive;
+}
+
+h1 {
+    font-size: 2rem;
+    /* font-family: 'Inspiration', cursive; */
+}
+
+button {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    background-color: rgb(99, 169, 238);
+    color:aliceblue
+}
+
+p {
+    margin: 2rem auto;
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+    max-width: 300px;
+    height: auto;
+}
+
+.pic {
+    width: 350px
+}
